@@ -1,9 +1,9 @@
-import CarForm from "../components/CarForm";
+import SearchForm from "../components/SearchForm";
 
 export default function Home() {
   return (
     <div>
-      <CarForm />
+      <SearchForm />
     </div>
   );
 }
